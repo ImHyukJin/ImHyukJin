@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=300&text=ImHyukJin&fontColor=ffffff&color=6994CDEE&desc=welcome&animation=fadeIn&descAlign=55&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?height=360&text=ImHyukJin&fontColor=ffffff&color=6994CDEE&desc=welcome&animation=fadeIn&descAlign=55&descAlignY=65)
 
 <!--
 **ImHyukJin/ImHyukJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
