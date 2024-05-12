@@ -1,4 +1,4 @@
-<!--
+ <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=ImHyukJin&fontSinze=40&fontAlign=50&fontAlignY=50&fontColor=FFFF00&color=6994CDEE&desc=welcome&animation=fadeIn&descAlign=55&descAlignY=65)
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&text=&animation=twinkling&height=80)
@@ -17,7 +17,7 @@
     <div>
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase>
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
