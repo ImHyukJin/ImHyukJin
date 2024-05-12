@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=F7DF1E&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=ImHyukJin's+GitHub!)](https://git.io/typing-svg)
 
-## 🔨 Once I've used 🔨
+##  Tech Stack 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -17,7 +17,7 @@
     <div>
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+        <img src="https://img.shields.io/badge/mariaDB-FFFFFF?style=for-the-badge&logo=firebase&logoColor=white">
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
