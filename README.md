@@ -10,7 +10,6 @@
     <p><strong>Backend</strong></p>
     <div> 
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-509D3E?style=for-the-badge&logo=spring&logoColor=white">
     </div> 
     <!-- Database -->
@@ -25,7 +24,6 @@
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
